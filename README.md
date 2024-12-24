@@ -32,7 +32,7 @@
 
 <h3 align="center"> My Statistics :</h3>
 <p align="center">
-  <table align="center" cellpadding="30">
+  <table align="center" style="width:800px">
     <tr border="none">
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kevinThulnith&theme=dark&show_icons=true&count_private=true" />
