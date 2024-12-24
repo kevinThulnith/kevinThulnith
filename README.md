@@ -1,11 +1,50 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Kevin Thulnith</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h3 align="center">A passionate developer Exploring  the IT world</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kevinthulnith&label=Profile%20views&color=0e75b6&style=flat" alt="kevinthulnith" /> </p>
+<div align=center>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Programmer;Web+Developer;Open-Source+Enthusiast;IT+Student;Full-Stack+Developer;" alt="Headline" />
+</div>  
+<!---p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p--->
+<!--img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif"-->
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
-- 🌱 I’m currently learning **react**
+![GitHub followers](https://img.shields.io/github/followers/kevinThulnith?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/kevinThulnith?style=social)<img src="https://komarev.com/ghpvc/?username=kevinThulnith" alt="" />
 
-- 📫 How to reach me **kevinthulnith@gmail.com**
+<br>**About Me🧑‍💻**
+
+
+   🔭 I’m currently working on [My portfolio website](https://arjuncvinod.github.io)
+
+   🌱 I’m currently learning **React.js**
+
+   💬 Ask me about **Python, C, PHP, MySQL**
+
+   📫 Reach out to me: **kevinthulnith@gmail.com**
+
+   ✍ You can find my resume [here](--cvLink)
+
+   🎓 I'm studing in [Univercity of Kelaniya](https://www.kln.ac.lk/) 
+
+
+<br><br><br><br>
+---
+
+<h3 align="center"> My Statistics :</h3>
+<p align="center">
+  <table align="center" cellpadding="30">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kevinThulnith&theme=dark&show_icons=true&count_private=true" />
+        <br></br>
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinThulnith&theme=dark&hide_border=false" />   
+      </td>
+        <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevinThulnith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>  
+      </td>
+    </tr>
+  </table>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
