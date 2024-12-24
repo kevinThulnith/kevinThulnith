@@ -27,12 +27,12 @@
    🎓 I'm studing in [Univercity of Kelaniya](https://www.kln.ac.lk/) 
 
 
-<br><br><br><br>
+<br><br><br><br><br>
 ---
 
 <h3 align="center"> My Statistics :</h3>
 <p align="center">
-  <table align="center" style="width:800px">
+  <table align="center" border="0">
     <tr border="none">
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kevinThulnith&theme=dark&show_icons=true&count_private=true" />
