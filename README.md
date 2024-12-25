@@ -71,7 +71,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/microsoftSQL.svg" alt="mssql" width="50" height="50"/> </a> 
+</a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> 
 <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Light.svg" alt="android" width="50" height="50"/> </a> 
-<a href="https://xampp.com" target="_blank" rel="noreferrer"><img align="center" src="./.github/example-light.png#gh-light-mode-only" alt="android" width="50" height="50"/></a> 
 </p>
