@@ -28,6 +28,8 @@
 
    🎓 I'm currently studing at [Univercity of Kelaniya](https://www.kln.ac.lk/) 
 
+   ⚡ Fun fact, Good freinds make the best days.
+
 
 <br><br><br><br><br>
 ---
