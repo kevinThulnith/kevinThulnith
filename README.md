@@ -7,7 +7,7 @@
 </div>  
 <!---p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p--->
 <!--img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif"-->
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="500"/>
 
 ![GitHub followers](https://img.shields.io/github/followers/kevinThulnith?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/kevinThulnith?style=social)
@@ -32,6 +32,7 @@
 
 
 <br><br><br><br><br>
+
 ---
 
 <p align="center">
@@ -50,7 +51,7 @@
   </table>
 </p>
 
-<br><br><br>
+---
 
 <p>
 <h3>🔗 Connect with me:</h3>
@@ -59,7 +60,7 @@
 <a href="https://facebook.com/kevin.uluwaduge" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-<br><br>
+---
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
