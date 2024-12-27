@@ -13,7 +13,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/kevinThulnith?style=social)
 <img src="https://komarev.com/ghpvc/?username=kevinThulnith" alt="" />
 
-<br>**About Me🧑‍💻**
+<br>**About Me 🧑‍💻**
 
 
    <!---p>🔭 I’m currently working on [My portfolio website](https://arjuncvinod.github.io)<p--->
