@@ -71,7 +71,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="50" height="50"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" alt="php" width="50" height="50"/> </a> 
-<a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Light.svg" alt="android" width="50" height="50"/> </a>
+<a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" alt="android" width="50" height="50"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" alt="postman" width="50" height="50"/> </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="50" height="50"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="50" height="50"/> </a> 
@@ -80,7 +80,7 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cs.svg" alt="cplusplus" width="50" height="50"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" alt="android" width="50" height="50"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="react" width="50" height="50"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" alt="react" width="50" height="50"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" width="50" height="50"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" alt="python" width="50" height="50"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" width="50" height="50"/> </a> 
