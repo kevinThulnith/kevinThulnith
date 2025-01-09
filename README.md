@@ -12,6 +12,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/kevinThulnith?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/kevinThulnith?style=social)
 <img src="https://komarev.com/ghpvc/?username=kevinThulnith" alt="" />
+![Static Badge](https://img.shields.io/badge/Country-Sri_Lanka-blue)
+
 
 <br>**About Me 🧑‍💻**
 
