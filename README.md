@@ -64,6 +64,7 @@
 
 <h3 align="center">🛠️ Languages and Tools:</h3>
 <p align="center">
+<a href="https://github.com"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50"/></a>    
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="50" height="50"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="50" height="50"/> </a> 
@@ -89,4 +90,12 @@
 <a href="https://vite.dev/"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Dark.svg" width="50" height="50"/></a>
 <a href="https://jupyter.org/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-light.svg" width="50" height="50"/></a>
 <a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50"/></a>
+</p>
+
+---
+<h3 align=center>🏆 Git Trophies</h3>
+<p align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=kevinThulnith&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
 </p>
