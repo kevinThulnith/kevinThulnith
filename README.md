@@ -90,6 +90,7 @@
 <a href="https://vite.dev/"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Dark.svg" width="50" height="50"/></a>
 <a href="https://jupyter.org/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-light.svg" width="50" height="50"/></a>
 <a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50"/></a>
+<a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" width="50" height="50"/></a>
 </p>
 
 ---
