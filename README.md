@@ -36,7 +36,7 @@
 ---
 
 <p align="center">
-<h3 align="center"> My Statistics :</h3>
+<h3 align="center"> My Statistics :</h3><br>
   <table align="center" border="0">
     <tr border="none">
       <td width="50%" align="center">
@@ -53,7 +53,7 @@
 
 ---
 
-<h3>🔗 Connect with me:</h3>
+<h3>🔗 Connect with me:</h3><br>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([#](https://www.linkedin.com/in/kevinuluwaduge/))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kevin_thulnith/)
@@ -61,7 +61,7 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ Languages and Tools:</h3><br>
 <p align="center">
 <a href="https://github.com"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50"/></a>    
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50"/> </a> 
@@ -93,7 +93,7 @@
 </p>
 
 ---
-<h3 align=center>🏆 Git Trophies</h3>
+<h3 align=center>🏆 Git Trophies</h3><br>
 <p align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" src="https://github-profile-trophy.vercel.app/?username=kevinThulnith&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
