@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer Exploring  the IT world</h3>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Programmer;Web+Developer;Open-Source+Enthusiast;IT+Student;Full-Stack+Developer;" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Programmer;Web+Developer;Open-Source+Enthusiast;IT+Student;Full-Stack+Developer;Undergraduate;" alt="Headline" />
 </div>  
 <!---p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p--->
 <!--img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif"-->
