@@ -16,7 +16,7 @@
 <br>**About Me 🧑‍💻**
 
 
-   <!---p>🔭 I’m currently working on [My portfolio website](https://arjuncvinod.github.io)<p--->
+   🔭 I’m currently working on a [Django | Raect project](https://github.com/kevinThulnith/Inventory-Management-System.git)
 
    🌱 I’m currently learning **React.js**
 
