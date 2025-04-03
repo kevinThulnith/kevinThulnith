@@ -44,7 +44,13 @@
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kevinThulnith&theme=dark&show_icons=true&count_private=true" />
         <br></br>
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinThulnith&theme=dark&hide_border=false" />   
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinThulnith&theme=dark&hide_border=false" />
+        <br></br>
+      ![kevinThulnith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinThulnith&theme=dark&show_icons=true&hide_border=true&layout=compact)
+      <br></br>
+      ![kevinThulnith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kevinThulnith&theme=dark&hide_border=true)
+      <br></br>
+      ![kevinThulnith's Stats](https://github-readme-stats.vercel.app/api?username=kevinThulnith&theme=dark&show_icons=true&hide_border=true&count_private=true)
       </td>
         <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevinThulnith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>  
