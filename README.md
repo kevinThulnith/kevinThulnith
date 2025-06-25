@@ -96,6 +96,8 @@
 <a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50"/></a>
 <a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" width="50" height="50"/></a>
 <a href="https://railway.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/railway-dark.svg" width="50" height="50"/></a>
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Dark.svg" width="50" height="50"/>
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg" width="50" height="50"/>
 </p>
 
 ---
