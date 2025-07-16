@@ -67,14 +67,13 @@
 
 <h3 align="center">🛠️ Languages and Tools:</h3><br>
 <p align="center">
-<a href="https://github.com"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50"/></a>    
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" height="50"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/> </a> 
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Dark.svg" width="50" height="50"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Dark.svg" width="50" height="50"/> </a> 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Light.svg" alt="android" width="50" height="50"/> </a> 
+<a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50"/></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cs.svg" width="50" height="50"/> </a>
@@ -87,18 +86,19 @@
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" width="50" height="50"/>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" width="50" height="50"/> </a> 
 <a href="https://vite.dev/"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Dark.svg" width="50" height="50"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" width="50" height="50"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" width="50" height="50"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postman" width="50" height="50"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" width="50" height="50"/> </a> 
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" width="50" height="50"/></a>
 <a href="https://vercel.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vercel-dark.svg" width="50" height="50"/></a>
 <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VisualStudio-Light.svg" alt="android" width="50" height="50"/> </a> 
-<a href="https://jupyter.org/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-light.svg" width="50" height="50"/></a>
-<a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50"/></a>
 <a href="https://railway.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/railway-dark.svg" width="50" height="50"/></a>
+<a href="https://jupyter.org/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-light.svg" width="50" height="50"/></a>
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg" width="50" height="50"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/> </a> 
+<a href="https://github.com"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50"/></a>    
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Dark.svg" width="50" height="50"/>
 </p>
 
 ---
