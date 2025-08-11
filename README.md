@@ -72,6 +72,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50"/> </a> 
 <a href="docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" height="50"/> </a> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="50" height="50"/>   
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" width="50" height="50"/> </a>
@@ -100,7 +101,10 @@
 <a href="https://jupyter.org/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-light.svg" width="50" height="50"/></a>
 <a href="https://git-scm.com/downloads"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="50" height="50"/></a>
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg" width="50" height="50"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Light.svg" width="50" height="50"/>    
+<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Light.svg" width="50" height="50"/>   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50"/>   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="50" height="50"/>   
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50" height="50"/>   
 </p>
 
 ---
