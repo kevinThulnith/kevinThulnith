@@ -84,6 +84,7 @@
 <a href="https://github.com"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/> </a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50"/> </a> 
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50" height="50"/>   
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Light.svg" alt="android" width="50" height="50"/> </a> 
 <a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50"/> </a> 
@@ -104,7 +105,6 @@
 <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Light.svg" width="50" height="50"/>   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50"/>   
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="50" height="50"/>   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50" height="50"/>   
 </p>
 
 ---
