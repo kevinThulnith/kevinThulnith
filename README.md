@@ -18,15 +18,15 @@
 
    🔭 I’m currently working on a [Django | Raect project](https://github.com/kevinThulnith/Inventory-Management-System.git)
 
-   🌱 I’m currently learning **React.js**
+   🎓 I'm currently studing at [Univercity of Kelaniya](https://www.kln.ac.lk/) 
+   
+   🌱 I’m currently learning **Devops**
 
    💬 Ask me about **Python, C, PHP, MySQL**
 
    📫 Reach out to me: **kevinthulnith@gmail.com**
 
    ✍ You can find my resume [here](--cvLink)
-
-   🎓 I'm currently studing at [Univercity of Kelaniya](https://www.kln.ac.lk/) 
 
    ⚡ Fun fact, Good freinds make the best days.
 
@@ -53,11 +53,11 @@
   </table>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 ---
 
-<h3>🔗 Connect with me:</h3><br>
+<h3>🤝 Connect with me:</h3><br>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/kevinuluwaduge/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kevin_thulnith/)
