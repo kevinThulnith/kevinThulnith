@@ -16,11 +16,11 @@
 
 <br>**About Me 🧑‍💻**
 
-🔭 I’m currently working on a [Django | Raect project](https://github.com/kevinThulnith/Inventory-Management-System.git)
+🔭 I’m currently working on a [Django | React project](https://github.com/kevinThulnith/Inventory-Management-System.git)
 
-🎓 I'm currently studing at [Univercity of Kelaniya](https://www.kln.ac.lk/)
+🎓 I'm currently studying at [University of Kelaniya](https://www.kln.ac.lk/)
 
-🌱 I’m currently learning **Devops**
+🌱 I’m currently learning **DevOps**
 
 💬 Ask me about **Python, C, PHP, MySQL**
 
@@ -28,7 +28,7 @@
 
 ✍ You can find my resume [here](--cvLink)
 
-⚡ Fun fact, Good freinds make the best days.
+⚡ Fun fact, Good friends make the best days.
 
 🤝 I’m available for freelancing.
 
