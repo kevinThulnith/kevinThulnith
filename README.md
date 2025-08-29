@@ -1,4 +1,5 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Kevin Thulnith</h1>
 <h3 align="center">A passionate developer Exploring  the IT world</h3>
 
@@ -9,45 +10,43 @@
 <!--img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif"-->
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="440"/>
 
-![GitHub followers](https://img.shields.io/github/followers/kevinThulnith?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/kevinThulnith?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/kevinThulnith?style=social)
 <img src="https://komarev.com/ghpvc/?username=kevinThulnith" alt="" />
 
 <br>**About Me 🧑‍💻**
 
+🔭 I’m currently working on a [Django | Raect project](https://github.com/kevinThulnith/Inventory-Management-System.git)
 
-   🔭 I’m currently working on a [Django | Raect project](https://github.com/kevinThulnith/Inventory-Management-System.git)
+🎓 I'm currently studing at [Univercity of Kelaniya](https://www.kln.ac.lk/)
 
-   🎓 I'm currently studing at [Univercity of Kelaniya](https://www.kln.ac.lk/) 
-   
-   🌱 I’m currently learning **Devops**
+🌱 I’m currently learning **Devops**
 
-   💬 Ask me about **Python, C, PHP, MySQL**
+💬 Ask me about **Python, C, PHP, MySQL**
 
-   📫 Reach out to me: **kevinthulnith@gmail.com**
+📫 Reach out to me: **kevinthulnith@gmail.com**
 
-   ✍ You can find my resume [here](--cvLink)
+✍ You can find my resume [here](--cvLink)
 
-   ⚡ Fun fact, Good freinds make the best days.
+⚡ Fun fact, Good freinds make the best days.
 
-   🤝 I’m available for freelancing.
-
+🤝 I’m available for freelancing.
 
 <br><br><br><br><br>
 
 ---
 
 <p align="center">
-<h3 align="center"> My Statistics :</h3><br>
+  <h3 align="center"> My Statistics :</h3><br>
   <table align="center" border="0">
     <tr border="none">
       <td width="50%" align="center">
         <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kevinThulnith&theme=dark&show_icons=true&count_private=true" />
         <br></br>
-        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinThulnith&theme=dark&hide_border=false" />
+        <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com/?user=kevinThulnith&theme=dark&hide_border=false" />
       </td>
-        <td width="50%" align="center">
-        <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kevinThulnith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>  
+      <td width="50%" align="center">
+        <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinThulnith&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>  
       </td>
     </tr>
   </table>
@@ -67,50 +66,51 @@
 
 <h3 align="center">🛠️ Languages and Tools:</h3><br>
 <p align="center">
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" height="50"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50"/> </a> 
-<a href="docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" height="50"/> </a> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="50" height="50"/>   
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" width="50" height="50"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cs.svg" width="50" height="50"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="50" height="50"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" width="50" height="50"/> </a> 
-<a href="https://github.com"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50"/></a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50"/> </a> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50" height="50"/>   
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Light.svg" alt="android" width="50" height="50"/> </a> 
-<a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" width="50" height="50"/> </a> 
-<a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" width="50" height="50"/> </a>
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" width="50" height="50"/>
-<a href="https://vite.dev/"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Dark.svg" width="50" height="50"/></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postman" width="50" height="50"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" width="50" height="50"/> </a> 
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" width="50" height="50"/></a>
-<a href="https://vercel.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vercel-dark.svg" width="50" height="50"/></a>
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VisualStudio-Light.svg" alt="android" width="50" height="50"/> </a> 
-<a href="https://railway.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/railway-dark.svg" width="50" height="50"/></a>
-<a href="https://jupyter.org/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-light.svg" width="50" height="50"/></a>
-<a href="https://git-scm.com/downloads"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="50" height="50"/></a>
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg" width="50" height="50"/>
-<img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Light.svg" width="50" height="50"/>   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50"/>   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="50" height="50"/>   
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="50" height="50"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="50" height="50"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="50" height="50"/> </a> 
+  <a href="docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" width="50" height="50"/> </a> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="50" height="50"/>   
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50"/> </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" width="50" height="50"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cs.svg" width="50" height="50"/> </a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="50" height="50"/> </a> 
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" width="50" height="50"/> </a> 
+  <a href="https://github.com"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50"/></a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/> </a> 
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50"/> </a> 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50" height="50"/>   
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Light.svg" alt="android" width="50" height="50"/> </a> 
+  <a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" width="50" height="50"/> </a> 
+  <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" width="50" height="50"/> </a>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" width="50" height="50"/>
+  <a href="https://vite.dev/"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Dark.svg" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postman" width="50" height="50"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" width="50" height="50"/> </a> 
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" width="50" height="50"/></a>
+  <a href="https://vercel.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vercel-dark.svg" width="50" height="50"/></a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VisualStudio-Light.svg" alt="android" width="50" height="50"/> </a> 
+  <a href="https://railway.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/railway-dark.svg" width="50" height="50"/></a>
+  <a href="https://jupyter.org/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-light.svg" width="50" height="50"/></a>
+  <a href="https://git-scm.com/downloads"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="50" height="50"/></a>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg" width="50" height="50"/>
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Light.svg" width="50" height="50"/>   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50"/>   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="50" height="50"/>   
 </p>
 
 ---
+
 <h3 align=center>🏆 Git Trophies</h3><br>
 <p align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?username=kevinThulnith&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=kevinThulnith&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+  </a>
 </p>
