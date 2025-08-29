@@ -111,6 +111,6 @@
 <h3 align=center>🏆 Git Trophies</h3><br>
 <p align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=kevinThulnith&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=kevinThulnith&theme=radical&column=-1&row=1&margin-w=15&margin-h=15" alt="TROPHY" />
   </a>
 </p>
