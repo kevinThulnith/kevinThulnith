@@ -1,7 +1,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Kevin Thulnith</h1>
-<h3 align="center">A passionate developer Exploring  the IT world</h3>
+<h3 align="center">A passionate developer Exploring  the IT World</h3>
 
 <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Programmer;Web+Developer;Open-Source+Enthusiast;IT+Student;Full-Stack+Developer;Undergraduate;" alt="Headline" />
@@ -108,9 +108,25 @@
 
 ---
 
-<h3 align=center>🏆 Git Trophies</h3><br>
-<p align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=kevinThulnith&theme=radical&column=-1&row=1&margin-w=15&margin-h=15" alt="TROPHY" />
-  </a>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kevinThulnith&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kevinThulnith&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%" alt="Footer wave"/>
+</div>
+
+<div align="center">
+  <b>Thanks for visiting! 😄</b><br>
+  <i>Don't forget to ⭐ star some repositories if you find them interesting!</i>
+</div>
