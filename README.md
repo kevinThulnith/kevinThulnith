@@ -127,6 +127,7 @@
 </div>
 
 <div align="center">
-  <b>Thanks for visiting! 😄</b><br>
-  <i>Don't forget to ⭐ star some repositories if you find them interesting!</i>
+  <b>Thanks for Visiting 😄</b>
+  <br>
+  Don't forget to ⭐ <b>Star</b> some repositories if you find them <b>interesting !!!</b>
 </div>
