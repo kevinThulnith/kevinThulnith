@@ -103,7 +103,8 @@
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg" width="50" height="50"/>
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Light.svg" width="50" height="50"/>   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50"/>   
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="50" height="50"/>   
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" width="50" height="50"/>
 </p>
 
 ---
