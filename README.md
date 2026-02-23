@@ -8,7 +8,6 @@
 </div>  
 <!---p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p--->
 <!--img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif"-->
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="440"/>
 
 ![GitHub followers](https://img.shields.io/github/followers/kevinThulnith?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/kevinThulnith?style=social)
@@ -17,6 +16,7 @@
 <br>
 
 ## About Me 🧑‍💻
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="440"/>
 
 I am a passionate **Full Stack Developer** and **IT Undergraduate** currently studying at the **University of Kelaniya, Sri Lanka**. My journey in the IT world focuses on building scalable web applications and exploring DevOps methodologies. I specialize in backend development with **Python (Django/FastAPI)** and frontend experiences using **React.js**.
 
