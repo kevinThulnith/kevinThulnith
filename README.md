@@ -36,7 +36,7 @@ I am a passionate **Full Stack Developer** and **IT Undergraduate** currently st
 
 🤝 I’m available for **freelance web development projects**.
 
-<br><br><br><br>
+<br><br>
 
 ---
 
