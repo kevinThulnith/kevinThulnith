@@ -6,7 +6,6 @@
 <div align=center>
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Programmer;Web+Developer;Open-Source+Enthusiast;IT+Student;Full-Stack+Developer;Undergraduate;" alt="Kevin Thulnith - Programmer, Web Developer, Full Stack Developer, and IT Undergraduate in Sri Lanka" />
 </div>  
-<!---p align="center"><a href="https://arjuncvinod.github.io">Portfolio↗️</a></p--->
 <!--img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif"-->
 
 <br>
@@ -35,6 +34,8 @@ I am a passionate **Full Stack Developer** and **IT Undergraduate** currently st
 ✍ You can find my resume [here](--cvLink)
 
 ⚡ Fun fact, Good friends make the best days.
+
+🚀 Check out my portfolio: [portfolio](https://kevinthulnith.github.io/)
 
 🤝 I’m available for **freelance web development projects**.
 
