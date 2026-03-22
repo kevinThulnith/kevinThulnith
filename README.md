@@ -17,7 +17,8 @@
 <br>
 
 ## About Me 🧑‍💻
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="440"/>
+<img align="right" src="person.gif" alt="adam-pw" width="440"/>
+<!-- <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="440"/> -->
 
 I am a passionate **Full Stack Developer** and **IT Undergraduate** currently studying at the **University of Kelaniya, Sri Lanka**. My journey in the IT world focuses on building scalable web applications and exploring DevOps methodologies. I specialize in backend development with **Python (Django/FastAPI)** and frontend experiences using **React.js**.
 
@@ -59,7 +60,7 @@ I am a passionate **Full Stack Developer** and **IT Undergraduate** currently st
   </table>
 </p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+<img align="right" alt="Coding" width="300" src="cat.gif">
 
 ---
 
