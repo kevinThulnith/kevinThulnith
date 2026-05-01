@@ -4,7 +4,7 @@
 <h2 align="center">Full Stack Developer | Python & React Enthusiast | IT Undergraduate</h2>
 
 <div align=center>
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Programmer;Web+Developer;Open-Source+Enthusiast;IT+Student;Full-Stack+Developer;Undergraduate;" alt="Kevin Thulnith - Programmer, Web Developer, Full Stack Developer, and IT Undergraduate in Sri Lanka" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Programmer;Web+Developer;Open-Source+Enthusiast;IT+Student;Full-Stack+Developer;DevOps+Engineer;Undergraduate;" alt="Kevin Thulnith - Programmer, Web Developer, Full Stack Developer, and IT Undergraduate in Sri Lanka" />
 </div>  
 <!--img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/daftpunktocat-guy.gif"-->
 
@@ -22,7 +22,7 @@
 
 I am a passionate **Full Stack Developer** and **IT Undergraduate** currently studying at the **University of Kelaniya, Sri Lanka**. My journey in the IT world focuses on building scalable web applications and exploring DevOps methodologies. I specialize in backend development with **Python (Django/FastAPI)** and frontend experiences using **React.js**.
 
-🔭 I’m currently working on a [Factory Management System](https://github.com/kevinThulnith/Factory-Management-System)
+🔭 I’m currently working on a [DevOps Project](https://github.com/kevinThulnith/DevOps)
 
 🎓 I'm currently studying at [University of Kelaniya](https://www.kln.ac.lk/)
 
@@ -82,37 +82,39 @@ I am a passionate **Full Stack Developer** and **IT Undergraduate** currently st
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Nginx.svg" width="50" height="50"/>   
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="50" height="50"/> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="50" height="50"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" width="50" height="50"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Dark.svg" width="50" height="50"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" width="50" height="50"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="50" height="50"/> </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/cs.svg" width="50" height="50"/> </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Light.svg" width="50" height="50"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" width="50" height="50"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Postman.svg" width="50" height="50"/> </a> 
   <a href="https://github.com"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Github-Dark.svg" width="50" height="50"/></a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Light.svg" width="50" height="50"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" width="50" height="50"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" width="50" height="50"/> </a> 
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" width="50" height="50"/>   
   <a href="https://nodejs.org/en/download"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="50" height="50"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Light.svg" alt="android" width="50" height="50"/> </a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VSCode-Dark.svg" alt="android" width="50" height="50"/> </a> 
   <a href="https://vite.dev/"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vite-Dark.svg" width="50" height="50"/></a>
+  <a href="https://gitlab.com/"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GitLab-Dark.svg" width="50" height="50"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="50" height="50"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Light.svg" width="50" height="50"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/PHP-Dark.svg" width="50" height="50"/> </a> 
   <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Laravel-Dark.svg" width="50" height="50"/> </a>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/SQLite.svg" width="50" height="50"/>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postman" width="50" height="50"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="50" height="50"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" width="50" height="50"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" width="50" height="50"/> </a> 
-  <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Light.svg" width="50" height="50"/></a>
+  <a href="https://www.jetbrains.com/pycharm/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" width="50" height="50"/></a>
   <a href="https://vercel.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vercel-dark.svg" width="50" height="50"/></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VisualStudio-Light.svg" alt="android" width="50" height="50"/> </a> 
+  <a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/VisualStudio-Dark.svg" alt="android" width="50" height="50"/> </a> 
   <a href="https://railway.com/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/railway-dark.svg" width="50" height="50"/></a>
   <a href="https://jupyter.org/"><img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-light.svg" width="50" height="50"/></a>
   <a href="https://git-scm.com/downloads"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" width="50" height="50"/></a>
   <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/R-Dark.svg" width="50" height="50"/>
-  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Light.svg" width="50" height="50"/>   
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Markdown-Dark.svg" width="50" height="50"/>   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="50" height="50"/>   
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Npm-Dark.svg" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="50" height="50"/>
 </p>
 
 ---
