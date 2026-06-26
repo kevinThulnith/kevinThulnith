@@ -116,6 +116,8 @@ I am a passionate **Full Stack Developer** and **IT Undergraduate** currently st
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Light.svg" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kubernetes.svg" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GithubActions-Dark.svg" width="50" height="50"/>
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/googlecolab-auto.svg" width="50" height="50"/>
+  <img src="https://github.com/GeekyWizKid/skill-icon-generate/blob/main/icons/FastAPI.svg" width="50" height="50"/>
 </p>
 
 ---
